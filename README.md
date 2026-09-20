@@ -1,13 +1,17 @@
 
 ### Blur Effect
 
-![Scroll Blur Gif](scrollBlur.gif)
+![Scroll Blur Gif](gifs/scrollBlur.gif)
 
 
 ### No Blur
 
-![Regular Scroll](nonBlur.gif)
+![Regular Scroll](gifs/nonBlur.gif)
 
 ## Hot Coffee
 
-![Good Coffee](HotCoffee.gif)
+![Good Coffee](gifs/HotCoffee.gif)
+
+## Pulse Animation
+
+![Pulse](gifs/pulseAnimation.gif)
