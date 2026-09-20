@@ -28,7 +28,7 @@ Source: [ScrollBlurView.swift](animations/ScrollBlurView.swift)
 
 ## Hot Coffee
 
-A mesh-gradient coffee cup with an animated rising smoke effect.
+A coffee cup with an animated rising smoke effect.
 
 <img src="gifs/hotCoffee.gif" width="260" alt="Hot coffee mesh animation">
 
@@ -36,7 +36,7 @@ Source: [MeshCoffeeAnimation.swift](animations/MeshCoffeeAnimation.swift)
 
 ## Pulse Animation
 
-A repeating radial pulse built from a scaling, fading circle.
+A repeating radial fading circular pulse.
 
 <img src="gifs/pulseAnimation.gif" width="260" alt="Circle pulse animation">
 
