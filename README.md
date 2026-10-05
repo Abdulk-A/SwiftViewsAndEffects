@@ -8,6 +8,7 @@ A collection of small SwiftUI views and animations, built as playground experime
 - [Scroll Blur Effect](#scroll-blur-effect)
 - [Hot Coffee](#hot-coffee)
 - [Pulse Animation](#pulse-animation)
+- [Confetti](#confetti)
 
 ## Scroll Blur Effect
 
@@ -41,3 +42,11 @@ A repeating radial fading circular pulse.
 <img src="gifs/pulseAnimation.gif" width="260" alt="Circle pulse animation">
 
 Source: [CirclePulseAnimation.swift](animations/CirclePulseAnimation.swift)
+
+## Confetti
+
+Falling & rotating rectangles.
+
+<img src="gifs/confetti.gif" width="260" alt="Confetti animation">
+
+Source: [ConfettiAnimation2.swift](animations/ConfettiAnimation2.swift)
